@@ -1,6 +1,6 @@
 <div id="header" align="center">
- 
- ![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY4NzQ3YjI1NzZiYWEwZTYzNmJhODZkZGQyNmI5OTdiMjcxY2IwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/765ccrAiB0g9z6EApL/giphy.gif)
+
+![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY4NzQ3YjI1NzZiYWEwZTYzNmJhODZkZGQyNmI5OTdiMjcxY2IwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/765ccrAiB0g9z6EApL/giphy.gif)
 </div>
 
 ***
@@ -18,4 +18,9 @@
 ![Twitter Logo](https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=White&style=for-the-badge)
 </a>
 </div>
+<div align="center">
 
+![Views](https://komarev.com/ghpvc/?username=Ceejay-777)
+</div>
+
+***
