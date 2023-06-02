@@ -8,9 +8,7 @@
 
 <div align="center">
 
-## **Reach out to me:** 
-
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8"  alt="Down" width="30">
+## **Reach out to me:**  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8"  alt="Down" width="30">
 
 <a href="https://www.linkedin.com/in/covenant-joshua-5080aa228" target="_blank">
 
