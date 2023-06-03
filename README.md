@@ -3,7 +3,6 @@
 ![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY4NzQ3YjI1NzZiYWEwZTYzNmJhODZkZGQyNmI5OTdiMjcxY2IwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/765ccrAiB0g9z6EApL/giphy.gif)
 </div>
 
-***
 <br>
 
 # Hi there 👋, I'm Covenant Joshua Adeosun and it's nice to have you here.
@@ -17,6 +16,7 @@
 
 ### **Reach out to me**  
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-down_1f447.png"  alt="Down" width="30">
+
 <br>
 
 <a href="https://www.linkedin.com/in/covenant-joshua-5080aa228" target="_blank">
