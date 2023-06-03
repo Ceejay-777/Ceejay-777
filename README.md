@@ -34,9 +34,11 @@
 ![Views](https://komarev.com/ghpvc/?username=Ceejay-777&style=for-the-badge)
 </div>
 
+<br>
+  
 <div align="left">
 
-## About me
+## 👨‍💻 About me
 
 I'm Adeosun Covenant Joshua, a skilled **frontend developer** with a passion for building beautiful,robust and user-centric websites. With a solid background in HTML, CSS, JS and React among others, I excel at solving complex problems and delivering high-quality code. 
 
@@ -44,7 +46,10 @@ I possess an innate ability to quickly grasp and adapt to new technologies, allo
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-heart-eyes_1f60d.png" alt="love" width="20" align="center">
 </div>
 
-<div>
+<div align="left">
+  
+## 🛠️ Tools and Languages
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
