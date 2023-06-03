@@ -6,9 +6,18 @@
 ***
 <br>
 
+# Hi there 👋, I'm Covenant Joshua Adeosun and it's nice to have you here.
+
 <div align="center">
 
-### **Reach out to me:**  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8"  alt="Down" width="30">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Call+Me+CeeJay!!!;Growing+Software+Developer;Learn%2C+Collaborate+and+Help;More+About+Me%3F+Keep+scrolling!)](https://git.io/typing-svg)
+<div>
+
+<div align="center">
+
+### **Reach out to me**  
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-down_1f447.png"  alt="Down" width="30">
+<br>
 
 <a href="https://www.linkedin.com/in/covenant-joshua-5080aa228" target="_blank">
 
@@ -23,8 +32,7 @@
 </div>
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=Ceejay-777)
+![Views](https://komarev.com/ghpvc/?username=Ceejay-777&style=for-the-badge)
 </div>
 
-***
 
