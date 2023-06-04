@@ -36,7 +36,7 @@
 
 <div align="left">
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-halo_1f607.png" width="20" align="center"> <h2>About me</h2>
+## 👨‍💻 About me 
 
 I'm Adeosun Covenant Joshua, a skilled **frontend developer** with a passion for building beautiful,robust and user-centric websites. With a solid background in HTML, CSS, JS and React among others, I excel at solving complex problems and delivering high-quality code. 
 
