@@ -44,9 +44,10 @@ I possess an innate ability to quickly grasp and adapt to new technologies, allo
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-heart-eyes_1f60d.png" alt="love" width="20" align="center">
 </div>
 
+<div align="left">
+  
 ## :hammer_and_wrench: Tools and Languages
-
-<div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
