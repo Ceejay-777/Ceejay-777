@@ -67,6 +67,10 @@ I possess an innate ability to quickly grasp and adapt to new technologies, allo
 
 ### :fire: Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ceejay-777&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<div align="center">
+  <img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ceejay-777&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img height="200px" width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ceejay-777&theme=vision-friendly-dark&border=61dafb" />
+  <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceejay-777&layout=compact&theme=vision-friendly-dark&langs_count=9" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceejay-777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ceejay-777&theme=onestar&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
