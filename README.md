@@ -65,7 +65,10 @@ I possess an innate ability to quickly grasp and adapt to new technologies, allo
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: Stats
+<div align="left">
+  
+## :fire: Stats
+</div>
 
 <div align="center">
   <img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ceejay-777&count_private=true&show_icons=true&theme=vision-friendly-dark" />
