@@ -26,7 +26,7 @@
 
 ![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=White&style=for-the-badge)
 </a>
-<a href="https://wa.me/+2349060269724" target="_blank">
+<a href="https://wa.me/+2349069189724" target="_blank">
 ![Whatsapp Logo](https://img.shields.io/badge/whatsapp-white?logo=whatsapp&logoColor=White&style=for-the-badge)
 </a>
 <a href="https://twitter.com/cee_jay_777" target="_blank">
