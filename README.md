@@ -8,9 +8,9 @@
 
 # Hi there 👋, I'm Covenant Joshua Adeosun
 
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Strategic+Fullstack+Lead;Architecting+Enterprise+ERPs;AI+Workflows+Specialist;Building+High-Security+Systems;Engineering+at+Scale)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
