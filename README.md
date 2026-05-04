@@ -18,7 +18,7 @@
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-down_1f447.png"  alt="Down" width="30">
 
-<br>
+<br></br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/covenant-joshua-5080aa228) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x"/>](https://x.com/daCodeFada) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://wa.me/+2349069189724)
 
