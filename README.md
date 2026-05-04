@@ -1,83 +1,79 @@
-<div id="header" align="center">
-
-![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY4NzQ3YjI1NzZiYWEwZTYzNmJhODZkZGQyNmI5OTdiMjcxY2IwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/765ccrAiB0g9z6EApL/giphy.gif)
-
-</div>
+<h1  align="center">
+  <img  src="./assets/lofi_code.gif"  alt="working" />
+</h1>
 
 <br>
 
 <div align="center">
 
-# Hi there 👋, I'm Covenant Joshua Adeosun, Welcome.
+# Hi there 👋, I'm Covenant Joshua Adeosun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Call+Me+CeeJay!!!;Growing+Frontend+Developer;Learn%2C+Collaborate+and+Help;More+About+Me%3F+Keep+scrolling!)](https://git.io/typing-svg)
+</div>
 
-<div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1064A7EE&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Strategic+Fullstack+Lead;Architecting+Enterprise+ERPs;AI+Workflows+Specialist;Building+High-Security+Systems;Engineering+at+Scale)](https://git.io/typing-svg)
 
 <div align="center">
 
-### **Reach out to me**
+### **Connect with me**
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-down_1f447.png"  alt="Down" width="30">
 
 <br>
 
-<a href="https://www.linkedin.com/in/covenant-joshua-5080aa228" target="_blank">
-
-![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=White&style=for-the-badge)
-</a>
-<a href="https://wa.me/+2349069189724" target="_blank">
-![Whatsapp Logo](https://img.shields.io/badge/whatsapp-white?logo=whatsapp&logoColor=White&style=for-the-badge)
-</a>
-<a href="https://twitter.com/cee_jay_777" target="_blank">
-![Twitter Logo](https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=White&style=for-the-badge)
-</a>
-
-![Views](https://komarev.com/ghpvc/?username=Ceejay-777&style=for-the-badge)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/covenant-joshua-5080aa228) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x"/>](https://x.com/daCodeFada) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://wa.me/+2349069189724)
+![Views](https://komarev.com/ghpvc/?username=Ceejay-777&style=for-the-badge&color=1064A7)
 
 </div>
+
+<br>
 
 <div align="left">
 
 ## 👨‍💻 About me
 
-I'm Adeosun Covenant Joshua, a skilled **frontend developer** with a passion for building beautiful,robust and user-centric websites. With a solid background in HTML, CSS, JS and React among others, I excel at solving complex problems and delivering high-quality code.
+</div>
 
-I possess an innate ability to quickly grasp and adapt to new technologies, allowing me to swiftly adapt to previously unfamiliar stacks. And yeah, I love working with a team.
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-heart-eyes_1f60d.png" alt="love" width="20" align="center">
+I am a **Performance-driven Fullstack Engineer** with over 5 years of experience architecting end-to-end solutions. I specialize in bridging high-performance **React/Next.js/Typescript** frontend with robust **Python (Django, FastAPI, Flask)** backends.
+
+Currently, I am:
+
+- **Lead Backend Developer** at Docuhealth Services, solely architecting secure RESTful APIs with end-to-end encryption for the healtcare sector.
+- **Software Team Lead** at Smart Systems Research Lab, mentoring junior developers and defining engineering standards.
+- **Impact-Driven Engineer** building multiple projects that impact real people and solve complex problems within my community.
+- **3x Hackathon winner**
 
 </div>
 
 <div align="left">
   
-## :hammer_and_wrench: Tools and Languages
+## 🛠️ Tools and Languages
+
+</div>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="JQuery" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,flask,fastapi,django,express" /><br/>
+    <img src="https://skillicons.dev/icons?i=next,react,typescript,javascript,tailwind,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,vercel,supabase,firebase,ai" />
+    </a>
+  </d>
 </div>
 
 <div align="left">
-  
-## :fire: Stats
+
+## 🔥 Stats
+
 </div>
 
 <div align="center">
-  <img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ceejay-777&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://badges.pufler.dev/years/Ceejay-777"/>
+  <img src="https://badges.pufler.dev/repos/Ceejay-777"/>
+  <img src="https://badges.pufler.dev/commits/monthly/Ceejay-777" />
+</div>
+
+<div align="center">
   <img height="200px" width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ceejay-777&theme=vision-friendly-dark&border=61dafb" />
-  <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceejay-777&layout=compact&theme=vision-friendly-dark&langs_count=9" />
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ceejay-777&theme=onestar&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
