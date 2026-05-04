@@ -70,10 +70,13 @@ Currently, I am:
   <img src="https://badges.pufler.dev/years/Ceejay-777"/>
   <img src="https://badges.pufler.dev/repos/Ceejay-777"/>
   <img src="https://badges.pufler.dev/commits/monthly/Ceejay-777" />
-</div>
 
-<div align="center">
-  <img height="200px" width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ceejay-777&theme=vision-friendly-dark&border=61dafb" />
-</div>
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ceejay-777&theme=onestar&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<img height="200px" width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ceejay-777&theme=vision-friendly-dark&border=61dafb" />
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ceejay-777&theme=onestar&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a>
+
+</div>
